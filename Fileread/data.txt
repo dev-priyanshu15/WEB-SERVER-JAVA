@@ -1,0 +1,3 @@
+Hello client, this is a file from the server.
+Line 2: Thread pool demo.
+Line 3: You are connected to a multi-threaded server.
